@@ -1,8 +1,4 @@
 
-<p align="center">
-<a href="https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme#review-details"><img src="https://vsmarketplacebadge.apphb.com/rating-star/Equinusocio.vsc-community-material-theme.svg?style=for-the-badge&colorA=FBBD30&colorB=F2AA08"/></a> <a href="https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/Equinusocio.vsc-community-material-theme.svg?style=for-the-badge&colorA=5DDB61&colorB=4BC74F&label=DOWNLOADS"/></a> <a href="https://a.paddle.com/v2/click/16413/37697?link=1227"><img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20Course%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
-</p>
-
 ## Communication ⚠️
 
 This project is community-maintained. You can find the official [Material Theme here](https://github.com/material-theme/vsc-material-theme).
@@ -11,7 +7,6 @@ This project is community-maintained. You can find the official [Material Theme 
 
 The most epic theme meets Visual Studio Code. You can help by reporting issues [here](https://github.com/material-theme/vsc-community-material-theme/issues).
 
-- [Brought to you by](#brought-to-you-by)
 - [Communication ⚠️](#communication-️)
 - [Getting started](#getting-started)
   - [Installation](#installation)
